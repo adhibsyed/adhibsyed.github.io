@@ -1,0 +1,32 @@
+html {
+  padding-left: calc(100vw - 100%);
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.badge {
+  font-weight: 500;
+}
+
+.bg-light,
+.badge-light {
+  &,
+  * {
+    color: $text-black !important;
+  }
+}
+
+.carousel-control-next-icon, 
+.carousel-control-prev-icon {
+  background-color: rgb(98, 96, 96);
+}
+
+.text-primary {
+  color: $primary!important;
+}
+
+.border-primary {
+  border-color: $primary!important;
+}

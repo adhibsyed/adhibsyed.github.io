@@ -1,0 +1,38 @@
+.cta-top.card {
+    text-decoration: none !important;
+    color: #6c757d;
+    border: none !important;
+    margin-top: 3rem !important;
+    transition: transform 400ms;
+  
+    &:hover:not(.post) {
+      transform: translateY(-2px);
+      box-shadow: -1px 2px 20px -10px #79a2bf;
+    }
+  }
+  
+  .cta-bottom.card {
+    text-decoration: none !important;
+    color: #6c757d;
+    border: none !important;
+    margin-top: 1rem !important;
+    transition: transform 400ms;
+  
+    &:hover:not(.post) {
+      transform: translateY(-2px);
+      box-shadow: -1px 2px 20px -10px #79a2bf;
+    }
+  }
+
+  .card {
+    border: 1px solid #79a2bf;
+  }
+  
+  @media (max-width: 767.98px) {
+      .cta-top.card {
+        margin-top: 0.8rem !important;
+        }
+      .cta-bottom.card {
+        margin-top: 0.8rem !important;
+        }
+  }
