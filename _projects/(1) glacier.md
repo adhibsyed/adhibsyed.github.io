@@ -1,6 +1,6 @@
 ---
 name: Generating Glacier Velocity Maps of Rink Isbrae Utilising Sentinel-1 A/B SAR Data
-tools: [SNAP, Google Earth, SAR]
+tools: [SNAP, Google Earth, SAR, Remote Sensing]
 image: "/assets/images/p1/p1map2.jpg"
 description: Offset tracking within the SNAP software was utilised to generate velocity maps of the Rink Isbrae glacier.
 

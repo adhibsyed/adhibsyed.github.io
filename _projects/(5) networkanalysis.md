@@ -1,6 +1,6 @@
 ---
 name: Network Analysis and Raster Interpolation in ArcGIS
-tools: [ArcGIS Pro, Network Analysis]
+tools: [ArcGIS Pro, Network Analysis, Raster Interpolation]
 image: "/assets/images/p5/p5map1.jpg"
 description: These maps highlight the impacts of bank branch closures in the Isle of Wight.
 ---
