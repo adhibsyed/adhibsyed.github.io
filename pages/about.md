@@ -9,7 +9,7 @@ weight: 3
 <br>
 Hi, I'm **Adhib**. <br>
 
-<div style="text-align: justify">I chanced upon GIS and remote sensing when pursuing a bachelor’s degree in geology and have since been interested in it; hence I’m currently pursuing a master’s degree in GIS at the University of Leicester. 
+<div style="text-align: justify">I found myself gravitating towards GIS and remote sensing when pursuing a bachelor’s degree in geology and have since been interested in it; hence I’m currently pursuing a master’s degree in GIS at the University of Leicester. 
 <br><br>
 I like maps - from aesthetic maps that communicate real-world data efficiently, to fantastical video game maps that creatively break conventions. My education in GIS and geology has given me a deep understanding of the intricacies of spatial data and how it can be used to solve real-world problems. Whether working with large datasets or creating interactive maps, I am eager to take on new challenges and find innovative solutions. 
 <br><br>
