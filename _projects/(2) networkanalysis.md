@@ -2,10 +2,10 @@
 name: Network Analysis and Raster Interpolation in ArcGIS
 tools: [ArcGIS Pro, Network Analysis, Raster Interpolation]
 image: "/assets/images/p5/p5map1.jpg"
-description: These maps highlight the impacts of bank branch closures in the Isle of Wight.
+description: These maps highlight the financial exclusion risks and the impacts of bank branch closures in the Isle of Wight.
 ---
 
-# Investigating the impacts of bank branch closures in the Isle of Wight utilising GIS analysis - Network Analysis and Raster Interpolation
+# Investigating the financial exclusion risks and the impacts of bank branch closures in the Isle of Wight utilising GIS analysis - Network Analysis and Raster Interpolation
 <br>
 <div style="text-align: justify;">High street bank branches have been closing at a steady pace these past few years, and this change can be attributed to the momentous transition to digital for all things finance. Most of the bank branch closures are concentrated in rural or more deprived areas, and this risks the financial exclusion of different communities and demographics. This project utilises GIS-based network analysis and raster interpolation to examine the change in accessibility to a bank branch by means of walking and biking; and investigates if areas with insufficient internet infrastructure lie outside of the catchment area of the banks. </div>
 <br>
