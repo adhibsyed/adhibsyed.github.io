@@ -15,7 +15,7 @@ I recently completed a master's degree in Geographical Information Science from 
 <br><br>
 Outside of academics and professional work, I enjoy reading, gaming, exploring the outdoors, and learning new skills and languages. 
 <br><br>
-I'm eager to apply my background in geospatial analytics to new GIS and data science roles and continue growing as a professional.
+I'm eager to apply my background in geospatial analytics to new GIS and data analysis/science roles and continue growing as a professional.
 <br>
 <div class="row">
 {% include about/timeline.html %}
