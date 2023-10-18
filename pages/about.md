@@ -11,9 +11,7 @@ Hi, I'm **Adhib**. <br>
 
 I'm a Data and Geographical Information Science Specialist based in the United Kingdom. 
 <br><br>
-I recently completed a master's degree in Geographical Information Science from the University of Leicester, focusing on spatial data analysis. 
-<br><br>
-I'm passionate about turning raw data into meaningful insights through techniques like data visualisation, statistics, modelling, and machine learning.
+I recently completed a master's degree in Geographical Information Science from the University of Leicester, focusing on spatial data analysis. I'm passionate about turning raw data into meaningful insights through techniques like data visualisation, statistics, modelling, and machine learning.
 <br><br>
 Outside of academics and professional work, I enjoy reading, gaming, exploring the outdoors, and learning new skills and languages. 
 <br><br>
